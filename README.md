@@ -1,7 +1,7 @@
 # Link da Bio 
 
 <div align = 'center'>
-      <img   src='https://pedroeduardo.com.br/img-github/Logo-PesBio.link.png'>
+      <img   src='https://pedroeduardo.com.br/img-github/PesBio.link-Logo.png'>
 </div>
 
 
