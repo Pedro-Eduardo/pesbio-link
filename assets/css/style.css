@@ -1,0 +1,46 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#div-header img{
+
+    width: 200px;
+    height: 200px;
+    border-radius: 150px;
+    margin-top: 25px;
+}
+#container-social div a i{
+    color: #000;
+    font-size: 20px;
+    margin: 25px;
+}
+#container{
+    background-color: #fff;
+}
+a{
+    text-decoration: none;
+}
+.bt{
+    width: 300px;
+    height: 60px;      /*Centralizar*/
+    line-height:60px; /*Centralizar*/
+    text-align: center;
+    background-color: #000;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+.bt span{
+    display:inline-block; /*Centralizar*/
+    vertical-align: middle; /*Centralizar*/
+    line-height: normal; /*Centralizar*/
+}
+.bt span h1{
+    color: #fff;  
+    font-size: large;
+}
+#div-footer {
+    margin-top: 35px;
+}
